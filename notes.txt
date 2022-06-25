@@ -1,0 +1,25 @@
+--> No null entry
+
+Text columns:
+CarName, fueltype, aspiration, doornumber, carbody, drivewheel, enginelocation, enginetype, cylindernumber, fuelsystem
+
+Text columns which have a lot of catagories:
+CarName
+
+--> So CarName should be removed.
+
+
+catagorical columns:
+symboling, fueltype, aspiration, doornumber, carbody, drivewheel, enginelocation, enginetype, cylindernumber, fuelsystem
+
+catagorical and text columns:
+fueltype, aspiration, doornumber, carbody, drivewheel, enginelocation, enginetype, cylindernumber, fuelsystem
+
+Columns that have strong correlation with the price column:
+enginesize, curbweight, horsepower
+
+Ordinal Catagories:
+aspiration, doornumber, drivewheel, cylindernumber
+
+Nominal Catagories:
+fueltype, carbody, enginelocation, enginetype, fuelsystem
