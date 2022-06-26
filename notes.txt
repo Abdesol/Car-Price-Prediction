@@ -23,3 +23,6 @@ aspiration, doornumber, drivewheel, cylindernumber
 
 Nominal Catagories:
 fueltype, carbody, enginelocation, enginetype, fuelsystem
+
+Numerical catagories that need scaling:
+curbweight, enginesize
